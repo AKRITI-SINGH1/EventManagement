@@ -1,0 +1,16 @@
+.find-events-wrapper {
+    background-color:#8b0000 ;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 140px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-decoration-color: aliceblue;
+  }
+
+  
+  

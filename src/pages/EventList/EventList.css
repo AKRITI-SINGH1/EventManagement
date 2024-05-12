@@ -1,0 +1,22 @@
+.event-list-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: darkred;
+    flex-direction: column;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+  }
+  .event-list {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    margin-top: 140px;
+    margin-bottom: 60px;
+  }
